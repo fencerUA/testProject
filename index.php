@@ -31,6 +31,8 @@ function minMax(array $array){
 
 // echo minMax($array);
 
+echo "hello";
+
 ?>
 
 <!DOCTYPE html>
